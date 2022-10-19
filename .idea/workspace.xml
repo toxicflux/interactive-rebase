@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54b13405-4ba0-4df6-8341-52396b025d88" name="Changes" comment="CCCC" />
+    <list default="true" id="54b13405-4ba0-4df6-8341-52396b025d88" name="Changes" comment="A3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,24 +16,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitRewordedCommitMessages">
-    <option name="onto" value="148a7140a1f3d47c97a22d221bf294922caef307" />
+    <option name="onto" value="2020e13c2ebfe0393d66c51137d3e4503f37626f" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GMlwDteDvjUUjnEabb9dP4MKl9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -190,7 +192,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666208508402</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Reset">
+      <created>1666209254807</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666209254807</updated>
+    </task>
+    <task id="LOCAL-00023" summary="A1">
+      <created>1666209301974</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666209301974</updated>
+    </task>
+    <task id="LOCAL-00024" summary="A2">
+      <created>1666209365101</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1666209365101</updated>
+    </task>
+    <task id="LOCAL-00025" summary="A3">
+      <created>1666209396049</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1666209396049</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,9 +248,12 @@
     <MESSAGE value="Test DD" />
     <MESSAGE value="Test AA" />
     <MESSAGE value="Test BB" />
-    <MESSAGE value="Reset" />
     <MESSAGE value="BBBB" />
     <MESSAGE value="CCCC" />
-    <option name="LAST_COMMIT_MESSAGE" value="CCCC" />
+    <MESSAGE value="Reset" />
+    <MESSAGE value="A1" />
+    <MESSAGE value="A2" />
+    <MESSAGE value="A3" />
+    <option name="LAST_COMMIT_MESSAGE" value="A3" />
   </component>
 </project>
