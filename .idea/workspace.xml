@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54b13405-4ba0-4df6-8341-52396b025d88" name="Changes" comment="Test 6">
+    <list default="true" id="54b13405-4ba0-4df6-8341-52396b025d88" name="Changes" comment="Test AA">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +10,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="quinn &lt;simon.riis.iden@pilgruppen.no&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitRewordedCommitMessages">
-    <option name="commitMessagesMapping">
-      <RewordedCommitMessageMapping>
-        <option name="originalMessage" value="Test 7" />
-        <option name="rewordedMessage" value="Test 9" />
-      </RewordedCommitMessageMapping>
-    </option>
-    <option name="currentCommit" value="1" />
-    <option name="onto" value="7c2587e91bb569cc626e3418e1297eb7cef81edc" />
+    <option name="onto" value="7d4512201058822ddd901ab563184a05fc20b355" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -95,7 +93,70 @@
       <option name="project" value="LOCAL" />
       <updated>1666207324667</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Test a">
+      <created>1666207486468</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666207486468</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Test b">
+      <created>1666207497768</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666207497768</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test c">
+      <created>1666207507626</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666207507626</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Test b">
+      <created>1666207559855</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666207559855</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Test AA">
+      <created>1666207707272</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666207707272</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Test BB">
+      <created>1666207719629</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666207719629</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Test CC">
+      <created>1666207731824</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666207731824</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Test DD">
+      <created>1666207740774</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666207740774</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Test AA">
+      <created>1666208200684</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666208200684</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +177,13 @@
     <MESSAGE value="Test 4" />
     <MESSAGE value="Test 5" />
     <MESSAGE value="Test 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 6" />
+    <MESSAGE value="Test a" />
+    <MESSAGE value="Test c" />
+    <MESSAGE value="Test b" />
+    <MESSAGE value="Test BB" />
+    <MESSAGE value="Test CC" />
+    <MESSAGE value="Test DD" />
+    <MESSAGE value="Test AA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test AA" />
   </component>
 </project>
