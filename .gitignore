@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 AAAAA
+BBBBB234
 
 ### Eclipse ###
 .apt_generated
